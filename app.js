@@ -4437,7 +4437,7 @@ var $author$project$Main$main = A2(
 	_List_Nil,
 	_List_fromArray(
 		[
-			$elm$html$Html$text('Hello, '),
+			$elm$html$Html$text('Hey, '),
 			A2(
 			$elm$html$Html$span,
 			_List_fromArray(
